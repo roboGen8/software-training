@@ -1,6 +1,6 @@
 // make sure to compile with g++
 // to compile do
-//      g++ -o week2.out *.cpp
+//      g++ -std=c++14 -o week2.out *.cpp
 // to run do
 //      ./week2.out
 
